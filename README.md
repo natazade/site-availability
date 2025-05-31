@@ -1,1 +1,1 @@
-# site-availibility
+# site-availability
